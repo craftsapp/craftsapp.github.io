@@ -1,2 +1,3 @@
 #app-ads.txt file for APP: Videw Wallpaper Lite
 google.com, pub-8425676512477164, DIRECT, f08c47fec0942fa0
+google.com, pub-3878496920714204, DIRECT, f08c47fec0942fa0
