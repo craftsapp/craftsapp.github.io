@@ -1795,6 +1795,41 @@
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/lol004.jpg",
 				"name": "LOL",
                 "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/meteor001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/meteor001.jpg",
+				"name": "Meteor",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/skeleton_flicker001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/skeleton_flicker001.jpg",
+				"name": "Skeleton Flicker",
+                "category": "Flicker"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/halloween001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/halloween001.jpg",
+				"name": "Halloween",
+                "category": "Festival"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/halloween002.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/halloween002.jpg",
+				"name": "Halloween",
+                "category": "Festival"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/piano_girl001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/piano_girl001.jpg",
+				"name": "Piano Girl",
+                "category": "SexyGirl"
 			}
 		]
 }
