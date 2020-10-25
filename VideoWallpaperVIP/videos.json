@@ -237,6 +237,48 @@
 			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/shining001.jpg",
 			"name": "Shining",
 			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/forest_spirit001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/forest_spirit001.jpg",
+			"name": "Forest Spirit",
+			"category": "Comic"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/mr_cat002.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/mr_cat002.jpg",
+			"name": "Mr Cat",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/architectural_beauty001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/architectural_beauty001.jpg",
+			"name": "Architectural Beauty",
+			"category": "Nature"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/chrismas001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/chrismas001.jpg",
+			"name": "Chrismas",
+			"category": "Festival"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/flicker001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/flicker001.jpg",
+			"name": "Flicker",
+			"category": "Flicker"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/biscuit_factory001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/biscuit_factory001.jpg",
+			"name": "Biscuit Factory",
+			"category": "Comic"
 		}
 	]
 }
