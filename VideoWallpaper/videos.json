@@ -1830,6 +1830,76 @@
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/piano_girl001.jpg",
 				"name": "Piano Girl",
                 "category": "SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/in_rain001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/in_rain001.jpg",
+				"name": "In the Rain",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/light_edge001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/light_edge001.jpg",
+				"name": "Light Edge",
+                "category": "Flicker"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/snowhouse001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/snowhouse001.jpg",
+				"name": "Snow House",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/tide001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/tide001.jpg",
+				"name": "Tide",
+                "category": "Ocean"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/waterfall001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/waterfall001.jpg",
+				"name": "Waterfall",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/road_in_desert001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/road_in_desert001.jpg",
+				"name": "Road in Desert",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/first_love001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/first_love001.jpg",
+				"name": "First Love",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/imperial_palace001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/imperial_palace001.jpg",
+				"name": "Imperial Palace",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/sun_flames001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/sun_flames001.jpg",
+				"name": "Sun Flames",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/skeleton002.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/skeleton002.jpg",
+				"name": "Skeleton",
+                "category": "Comic"
 			}
 		]
 }
