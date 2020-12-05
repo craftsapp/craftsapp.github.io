@@ -249,7 +249,7 @@
 			"author": "From the Internet",
 			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/mr_cat002.mp4",
 			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/mr_cat002.jpg",
-			"name": "Mr Cat",
+			"name": "Mr Cat2",
 			"category": "Animal"
 		},
 		{
@@ -363,6 +363,111 @@
 			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/chrismas_cat001.jpg",
 			"name": "Chrismas Cat",
 			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/light_sword001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/light_sword001.jpg",
+			"name": "Light Sword",
+			"category": "Comic"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/sea_wave001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/sea_wave001.jpg",
+			"name": "Sea Wave",
+			"category": "Nature"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/celestial_body001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/celestial_body001.jpg",
+			"name": "Celestial Body",
+			"category": "Space"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/red_balls001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/red_balls001.jpg",
+			"name": "Red Balls",
+			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/chinese_character_fu001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/chinese_character_fu001.jpg",
+			"name": "Chinese Character Fu",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/broken_display001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/broken_display001.jpg",
+			"name": "Broken Display",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/red_moon001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/red_moon001.jpg",
+			"name": "Red Moon",
+			"category": "Space"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/flame_lion001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/flame_lion001.jpg",
+			"name": "Flame Lion",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/beauty_girl001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/beauty_girl001.jpg",
+			"name": "Beauty Girl",
+			"category": "Comic"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/red_cloud001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/red_cloud001.jpg",
+			"name": "Red Clouds",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/summer_travel001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/summer_travel001.jpg",
+			"name": "Summer Travel",
+			"category": "SexyGirl"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/night_fell001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/night_fell001.jpg",
+			"name": "Night Fell",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/tiger_mouse001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/tiger_mouse001.jpg",
+			"name": "Tiger and Mouse",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/fiery_dragon001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/fiery_dragon001.jpg",
+			"name": "Fiery Dragon",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/on_the_road001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/on_the_road001.jpg",
+			"name": "On the Road",
+			"category": "Comic"
 		}
 	]
 }
