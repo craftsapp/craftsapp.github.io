@@ -113,7 +113,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/beach001.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/beach001.jpg",
-				"name": "Beach",
+				"name": "Beach 1",
                 "category": "Nature"
 			},
 			{
@@ -1114,7 +1114,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/beach002.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/beach002.jpg",
-				"name": "Beach",
+				"name": "Beach 2",
                 "category": "Nature"
 			},
 			{
@@ -1394,7 +1394,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/beach003.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/beach003.jpg",
-				"name": "Beach",
+				"name": "Beach 3",
                 "category": "Nature"
 			},
 			{
@@ -1443,7 +1443,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/cat_girl001.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/cat_girl001.jpg",
-				"name": "Cat Girl",
+				"name": "Cat Girl 1",
                 "category": "SexyGirl"
 			},
 			{
@@ -1464,7 +1464,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/beach004.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/beach004.jpg",
-				"name": "Beach",
+				"name": "Beach 4",
                 "category": "Nature"
 			},
 			{
@@ -1562,7 +1562,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/cat_girl002.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/cat_girl002.jpg",
-				"name": "Cat Girl",
+				"name": "Cat Girl 2",
                 "category": "SexyGirl"
 			},
 			{
@@ -1646,7 +1646,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/mr_cat001.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/mr_cat001.jpg",
-				"name": "Mr Cat",
+				"name": "Mr Cat 1",
                 "category": "Animal"
 			},
 			{
@@ -1667,7 +1667,7 @@
 				"author": "From the Internet",
 				"url": "https://craftsapp.github.io/VideoWallpaper/videos/mr_cat002.mp4",
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/mr_cat002.jpg",
-				"name": "Mr Cat",
+				"name": "Mr Cat 2",
                 "category": "Animal"
 			},
 			{
@@ -1900,6 +1900,111 @@
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/skeleton002.jpg",
 				"name": "Skeleton",
                 "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/old_house001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/old_house001.jpg",
+				"name": "Old House",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/rabbit_girl001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/rabbit_girl001.jpg",
+				"name": "Rabbit Girl",
+                "category": "Comic,SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/orbit001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/orbit001.jpg",
+				"name": "Orbit",
+                "category": "Space,Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/sun001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/sun001.jpg",
+				"name": "Sun",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/cat_girl003.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/cat_girl003.jpg",
+				"name": "Cat Girl 3",
+                "category": "SexyGirl,Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/screw001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/screw001.jpg",
+				"name": "Screw",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/color_flicker001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/color_flicker001.jpg",
+				"name": "Color Flicker",
+                "category": "Flicker"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/line_flicker001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/line_flicker001.jpg",
+				"name": "Line Flicker",
+                "category": "Flicker"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/amulet001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/amulet001.jpg",
+				"name": "Amulet",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/fatcat001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/fatcat001.jpg",
+				"name": "Fat Cat",
+                "category": "Comic,Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/diamond_radiance001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/diamond_radiance001.jpg",
+				"name": "Diamond Radiance",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/beach005.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/beach005.jpg",
+				"name": "Beach 5",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/machine001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/machine001.jpg",
+				"name": "Machine",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/phoenix001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/phoenix001.jpg",
+				"name": "Phoenix Tree",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/mask_cat001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/mask_cat001.jpg",
+				"name": "Mask Cat",
+                "category": "Animal"
 			}
 		]
 }
