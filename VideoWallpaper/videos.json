@@ -2005,6 +2005,27 @@
 				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/mask_cat001.jpg",
 				"name": "Mask Cat",
                 "category": "Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/snk001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/snk001.jpg",
+				"name": "SNK 001",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/snk002.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/snk002.jpg",
+				"name": "SNK 002",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://craftsapp.github.io/VideoWallpaper/videos/jojo001.mp4",
+				"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/jojo001.jpg",
+				"name": "JoJo's Bizarre Adventure 001",
+                "category": "Comic"
 			}
 		]
 }
