@@ -706,6 +706,34 @@
 			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/eyes001.jpg",
 			"name": "Eyes",
 			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/bubble001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/bubble001.jpg",
+			"name": "Bubble",
+			"category": "Nature"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/machinery001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/machinery001.jpg",
+			"name": "Machinery",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/love_beach001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/love_beach001.jpg",
+			"name": "Love Beach",
+			"category": "Nature"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/annihilate001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/annihilate001.jpg",
+			"name": "Annihilate",
+			"category": "Nature"
 		}
 	]
 }
