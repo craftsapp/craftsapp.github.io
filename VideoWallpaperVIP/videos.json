@@ -734,6 +734,76 @@
 			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/annihilate001.jpg",
 			"name": "Annihilate",
 			"category": "Nature"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/lion001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/lion001.jpg",
+			"name": "lion001",
+			"category": "Animal"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/newyear2025.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/newyear2025.jpg",
+			"name": "newyear2025",
+			"category": "Festival"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/shenzi001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/shenzi001.jpg",
+			"name": "shenzi001",
+			"category": "SexyGirl"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/snake001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/snake001.jpg",
+			"name": "snake001",
+			"category": "Comic"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/snowy_cottage001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/snowy_cottage001.jpg",
+			"name": "snowy_cottage001",
+			"category": "Nature"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/stream_in_forest001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/stream_in_forest001.jpg",
+			"name": "stream_in_forest001",
+			"category": "Flicker"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/summer_day001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/summer_day001.jpg",
+			"name": "summer_day001",
+			"category": "Abstract"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/voyage001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/voyage001.jpg",
+			"name": "voyage001",
+			"category": "Nature"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/water_ripple001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/water_ripple001.jpg",
+			"name": "water_ripple001",
+			"category": "Nature"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/white_bear_girl001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/white_bear_girl001.jpg",
+			"name": "white_bear_girl001",
+			"category": "SexyGirl"
 		}
 	]
 }
