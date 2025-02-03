@@ -2001,6 +2001,69 @@
 			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/semicircle001.jpg",
 			"name": "Semicircle",
 			"category": "Abstract"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/chinese_landscape001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/chinese_landscape001.jpg",
+			"name": "chinese_landscape001",
+			"category": "Festival"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/divine_dragon001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/divine_dragon001.jpg",
+			"name": "divine_dragon001",
+			"category": "Animal"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/divine001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/divine001.jpg",
+			"name": "divine001",
+			"category": "Animal"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/feast_of_love001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/feast_of_love001.jpg",
+			"name": "feast_of_love001",
+			"category": "Festival"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/flowing_art001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/flowing_art001.jpg",
+			"name": "flowing_art001",
+			"category": "Abstract"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/oil_painting001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/oil_painting001.jpg",
+			"name": "oil painting",
+			"category": "Abstract"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/pink_beach001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/pink_beach001.jpg",
+			"name": "pink_beach",
+			"category": "Nature"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/shenzi002.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/shenzi002.jpg",
+			"name": "Sexy Girl",
+			"category": "SexyGirl"
+		},
+		{
+			"author": "AI Makes",
+			"url": "https://craftsapp.github.io/VideoWallpaper/videos/shenzi003.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaper/previews/shenzi003.jpg",
+			"name": "Sexy Girl",
+			"category": "SexyGirl"
 		}
 	]
 }
